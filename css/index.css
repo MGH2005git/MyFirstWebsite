@@ -93,7 +93,7 @@ main {
     body {
         background-color: rgb(8, 0, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('./assets/background2.jpg');
+        background-image: url('https://raw.githubusercontent.com/MGH2005git/MyFirstWebsite/main/assets/background2.jpg');
     }
 
     #tb_sidepanel {

@@ -540,7 +540,7 @@ main {
     body {
         background-color: rgb(2, 8, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('.https://raw.githubusercontent.com/MGH2005git/MyFirstWebsite/main/assets/background.gif');
+        background-image: url('https://raw.githubusercontent.com/MGH2005git/MyFirstWebsite/main/assets/background.gif');
     }
 
     .header-glass {

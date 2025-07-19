@@ -166,7 +166,6 @@ main {
     }
 
     .main-container {
-        /*background-color: red;*/
         min-height: 100vh;
         max-width: min(40em, 90vw); /* responsive*/
         display: flex;
@@ -181,7 +180,6 @@ main {
 
     .main-text {
         width: 100%;
-        /*background-color: purple;*/
         overflow: hidden;
         height: 5em;
         min-height: 5em;
@@ -222,7 +220,6 @@ main {
         align-items: center;
         width: 100%;
         min-height: 15em;
-        /*background-color: blue;*/
     }
 
     .file-tab {
@@ -232,7 +229,6 @@ main {
     .file-tab-txt, .url-tab-txt, .search-tab-txt {
         color: rgb(224, 224, 224);
         width: 100%;
-        /*background-color: red;*/
         height: 10em;
         font-size: 0.8em;
         display: flex;
@@ -269,7 +265,6 @@ main {
         height: 6em;
         overflow: hidden;
         color: rgb(224, 224, 224);
-        /*background-color: gold;*/
         font-size: 1em;
         display: flex;
         justify-content: center;
@@ -325,7 +320,7 @@ main {
     body {
         background-color: rgb(2, 8, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('assets/background.gif');
+        background-image: url('background.gif');
     }
 
     .header-glass {
@@ -390,7 +385,6 @@ main {
     }
 
     .main-container {
-        /*background-color: red;*/
         min-height: 80vh;
         max-width: min(40em, 90vw); /* responsive*/
         display: flex;
@@ -405,7 +399,6 @@ main {
 
     .main-text {
         width: 100%;
-        /*background-color: purple;*/
         overflow: hidden;
         height: 5em;
         min-height: 5em;
@@ -446,7 +439,6 @@ main {
         align-items: center;
         width: 100%;
         min-height: 15em;
-        /*background-color: blue;*/
     }
 
     .file-tab {
@@ -456,7 +448,6 @@ main {
     .file-tab-txt, .url-tab-txt, .search-tab-txt {
         color: rgb(224, 224, 224);
         width: 100%;
-        /*background-color: red;*/
         height: 10em;
         font-size: 0.8em;
         display: flex;
@@ -499,7 +490,6 @@ main {
         height: 6em;
         overflow: hidden;
         color: rgb(224, 224, 224);
-        /*background-color: gold;*/
         font-size: 1em;
         display: flex;
         justify-content: center;
@@ -524,8 +514,8 @@ main {
         display: none !important;
     }
 
-    #tb_sidepanel { /* error still shown */
-        display: none !important; /* high poirity */
+    #tb_sidepanel {
+        display: none !important;
     }
     
     ::-webkit-scrollbar {
@@ -550,7 +540,7 @@ main {
     body {
         background-color: rgb(2, 8, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('assets/background.gif');
+        background-image: url('background.gif');
     }
 
     .header-glass {
@@ -566,7 +556,6 @@ main {
     }
 
     .main-container {
-        /*background-color: red;*/
         min-height: calc(100vh - 10em);
         max-width: min(40em, 90vw); /* responsive*/
         display: flex;
@@ -579,7 +568,6 @@ main {
         overflow: hidden;
         height: 5em;
         min-height: 5em;
-        /*background-color: blue;*/
         color: rgb(238, 238, 238);
         font-size: 2em;
         display: flex;
@@ -590,7 +578,6 @@ main {
 
     .main-text {
         width: 100%;
-        /*background-color: purple;*/
         overflow: hidden;
         height: 5em;
         min-height: 5em;
@@ -631,7 +618,6 @@ main {
         align-items: center;
         width: 100%;
         min-height: 15em;
-        /*background-color: blue;*/
     }
 
     .file-tab {
@@ -641,7 +627,6 @@ main {
     .file-tab-txt, .url-tab-txt, .search-tab-txt {
         color: rgb(224, 224, 224);
         width: 100%;
-        /*background-color: red;*/
         height: 10em;
         font-size: 0.8em;
         display: flex;
@@ -684,7 +669,6 @@ main {
         height: 6em;
         overflow: hidden;
         color: rgb(224, 224, 224);
-        /*background-color: gold;*/
         font-size: 1em;
         display: flex;
         justify-content: center;
@@ -711,21 +695,12 @@ main {
     }
 
     .footer-container {
-        /*background-color: red;*/
-        /*width: auto;
-        height: auto;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        flex-wrap: wrap;
-        justify-content: space-around;*/
         display: grid;
         grid-template-columns: auto auto auto;
     }
 
     .aboutus {
         overflow: hidden;
-        /*background-color: blue;*/
         width: 10em;
         display: flex;
         flex-direction: column;
@@ -777,7 +752,6 @@ main {
     }
 
     .socialmediaicons {
-        /*background-color: purple;*/
         width: 100%;
         overflow: hidden;
         height: auto;

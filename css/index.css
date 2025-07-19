@@ -93,7 +93,7 @@ main {
     body {
         background-color: rgb(8, 0, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('assets/background2.jpg');
+        background-image: url('./assets/background2.jpg');
     }
 
     #tb_sidepanel {
@@ -320,7 +320,7 @@ main {
     body {
         background-color: rgb(2, 8, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('background.gif');
+        background-image: url('./assets/background.gif');
     }
 
     .header-glass {
@@ -540,7 +540,7 @@ main {
     body {
         background-color: rgb(2, 8, 0);
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url('background.gif');
+        background-image: url('./assets/background.gif');
     }
 
     .header-glass {
